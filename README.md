@@ -148,7 +148,7 @@ nifi:
 1) Clona el repositorio (si aplica):
 
 ```bash
-git clone https://github.com/samuelsantosdev/docker-apache_airflow.git
+git clone https://github.com/josedavidmi/apache_Hadoop_Nifi.git
 cd docker-apache_airflow
 ```
 
